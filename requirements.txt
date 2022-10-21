@@ -25,3 +25,4 @@ yfinance
 pyyaml
 plotly
 click
+ipykernel
