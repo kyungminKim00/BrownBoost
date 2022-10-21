@@ -2,16 +2,13 @@ DateTime==4.3
 numpy
 cloudpickle==1.3.0
 joblib
-scikit-learn
+sklearn
 scipy
 tqdm
 pycairo
 grpcio
-pylint
 matplotlib
 pandas
-pytest
-pytest-cov
 mock
 tox
 isort
@@ -25,7 +22,6 @@ Bottleneck
 ta
 mplfinance
 yfinance
-black
 pyyaml
 plotly
 click
