@@ -10,7 +10,6 @@
 .idea/**/shelf
 *.pt
 local_data
-.vscode
 
 # Generated files
 .idea/**/contentModel.xml
