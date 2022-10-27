@@ -5,7 +5,6 @@ joblib
 sklearn
 scipy
 tqdm
-pycairo
 grpcio
 matplotlib
 pandas
